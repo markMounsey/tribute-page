@@ -1,1 +1,44 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+#main {
+  margin: 32px 8px;
+  text-align: center;
+  background: #F4F4F4;
+  border-radius: 8px;
+}
+#title {
+  padding: 24px 0 0;
+}
+#img-div {
+  background: white;
+  padding:8px;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+#img-caption {
+  margin: 16px 0 8px;
+}
+#tribute-info {
+  display: block;
+}
+#headline {
+  margin: 32px 0;
+}
+#tribute-link {
+  text-decoration: none;
+  curser: pointer;
+}
+ul, .quote {
+  max-width: 560px;
+  text-align: left;
+  margin: 0 auto 56px auto;
+}
+h3 {
+  padding: 32px;
+}
 
